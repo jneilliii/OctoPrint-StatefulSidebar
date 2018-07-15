@@ -1,0 +1,4 @@
+include README.md
+recursive-include statefulsidebar/templates *
+recursive-include statefulsidebar/translations *
+recursive-include statefulsidebar/static *
