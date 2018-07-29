@@ -23,6 +23,8 @@ tags:
 
 If you experience issues with this plugin or need assistance please use the issue tracker at the plugin's Homepage linked on the right.
 
+**Note:**  Does not work with the Connection panel, as it's state is overridden by OctoPrint.
+
 ### Additional Plugins
 
 Check out my other plugins [here](https://plugins.octoprint.org/by_author/#jneilliii)
